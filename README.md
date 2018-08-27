@@ -7,6 +7,7 @@ Intended for low technical profiles, free of charge presencial classes @Barcelon
 
 1) Introduction - Commons:
 
+- Preparation of class, accounts and PGP creations
 - Linux & VM
 - Network and OS Architectures.
 - Github, Opensource, Darkweb.
@@ -19,3 +20,9 @@ TO DO:
 - Build up courseware
 - Deploy Lab
 - Set up scenario
+
+
+Requirements & Preparation:
+- Laptop that can run VirtualBox
+- 2 x USB Key (one > 32GB)
+- Wifi USB dongle 
