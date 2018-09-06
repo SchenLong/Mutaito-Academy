@@ -1,7 +1,7 @@
 # Mutaito Academy
 Ethical Hacking &amp; OSINT courseware program. 
 
-Intended for low technical profiles, free of charge presencial classes @Barcelona, Spain for people who do not own studies, certification or diplomas. 
+Intended for low technical profiles, free of charge presencial classes @Barcelona, Spain for whom do not own studies, certification or diplomas. 
 
 
 1) Hardware, OS and Architecture: Introduction
@@ -12,6 +12,9 @@ Practices:
 - Unbuild and identify parts and components of a Dell PowerEdge 2950
 - Install a Fresh Ubuntu
 - Install Rasbian on a raspberry
+
+
+                                                        ----------------------------------
 
 
 2) Network & infrastructure: Introduction
@@ -28,6 +31,9 @@ Practices:
 - Look up for the rules and trigger alerts. 
 
 
+                                                         ----------------------------------
+
+
 3) Web and Technologies: Introduction
 - Introduction to Webapp and DBs
 - Discovery of technologies and webapps with DOJO & DVWA VM
@@ -37,6 +43,9 @@ Practices:
 - Create a DB with class elements
 - Perform a vulnerability assesment on a website
 - Hack the website
+
+
+                                                         ----------------------------------
 
 
 4) Hardware, OS and Architecture: Level 1
@@ -51,6 +60,9 @@ Practices:
 - Root an android device
 
 
+                                                         ----------------------------------
+
+
 5) Network & infrastructure: Level 1
 - Different connections and protocol to network: TCP / UDP / RDP / WIFI / WEP / WPA ...
 - Network Scan and Recon principles
@@ -63,6 +75,9 @@ Practices:
 - Rescan and perform recon on the devices that you found
 
 
+                                                         ----------------------------------
+
+
 6) Web and Technologies: Level 1
 - CMS, APACHE, TOMCAT, PHP, MYSQL intro
 - Vulnerabilities in web technologies, how to identify them
@@ -71,6 +86,9 @@ Practices:
 - Scan the webserver and identify the technologies 
 - Find the vulnerabilities related to the webapps
 - Document the vulnerabilities
+
+
+                                                         ----------------------------------
 
 
 7) Hardware, OS and Architecture:  Level 2
@@ -84,7 +102,12 @@ Practices / Scenario: The class must gain access to the corporation system to re
 - Osint Team must find the login and password hint
 - Hack Team create the password list given Osint provided intels
 - Hack Team launch brute force attack against FTP, TELNET, RDP protocols and available devices.
-- 
+
+
+                                                         ----------------------------------
+ 
+
+
 
 TO DO:
 - classify ressources
