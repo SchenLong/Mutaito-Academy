@@ -1,5 +1,5 @@
 
-1) Hardware, OS and Architecture: Introduction
+Class 1) Hardware, OS and Architecture: Introduction
 - Introduction differents hardware: PC, Android, Server, Raspberry, IoT,Modem, Router, Switch, Firewall.
 - Introduction differents Architecture and OSes: x86, X64, ARM, WIN SERV, UBUNTU, RASBIAN
 
@@ -11,8 +11,7 @@ Practices:
 
                                                         ----------------------------------
 
-
-2) Network & infrastructure: Introduction
+Class 2) Network & infrastructure: Introduction
 - Introduction to network from Macro to Micro: Web to local network
 - Technical principles: IP/RANGE, DNS, DHCP, Router, Switch, Firewall, IDS / IPS, VPN, TOR.
 - Secure Online Navigation: Encryption capsule principles.
@@ -33,7 +32,7 @@ Once the network you will have to locate in the firewall the established rules a
                                                          ----------------------------------
 
 
-3) Web and Technologies: Introduction
+Class 3) Web and Technologies: Introduction
 - Introduction to Webapp and DBs
 - Discovery of technologies and webapps with DOJO & DVWA VM
 - Presentation DB & Dumps
@@ -50,7 +49,7 @@ You have been tasked with performing a vulnerability assesment on a website and 
                                                          ----------------------------------
 
 
-4) Hardware, OS and Architecture: Level 1
+Class 4) Hardware, OS and Architecture: Level 1
 - Linux Kali: SSH, Bash & Terminal principles
 - Windows: Server 2016, Install and config
 - Android: Root a device
@@ -66,7 +65,7 @@ Practices:
                                                          ----------------------------------
 
 
-5) Network & infrastructure: Level 1
+Class 5) Network & infrastructure: Level 1
 - Different connections and protocol to network: TCP / UDP / RDP / WIFI / WEP / WPA ...
 - Network Scan and Recon principles
 - NMAP - ZENMAP introduction
@@ -83,7 +82,7 @@ You have a recognition assignement with no physical access to the assets nor the
                                                          ----------------------------------
 
 
-6) Web and Technologies: Level 1
+Class 6) Web and Technologies: Level 1
 - CMS, APACHE, TOMCAT, PHP, MYSQL intro
 - Vulnerabilities in web technologies, how to identify them
 
@@ -98,7 +97,7 @@ You have been assigned a web application recognition in order to prepare a furth
                                                          ----------------------------------
 
 
-7) Hardware, OS and Architecture:  Level 2
+Class 7) Hardware, OS and Architecture:  Level 2
 - Corporate / Infrastructure networks
 - Network protocols FTP, TELNET, RDP and their vulnerabilities
 - BruteForce and Password list generator
