@@ -116,11 +116,15 @@ Practices :
 - Hack Team launch brute force attack against FTP, TELNET, RDP protocols and available devices.
 
 Scenario: 
-In this scenario the class will be divided in two teams, one team will be tasked with hacking (Hacking Team) the second team will provide intelligence support (Osint Team). The objective of this scenario is to retrieve a file on a server, while the Osint Team investigate the target in order to find hint and generate the materials for the Hack Team (Password list, Recon Intel, Company users etc...). During this time the Hack team will have to penetrate the network, scan it and identify the services that will allow them to eventually retrive the file. The Osint Team should have by then provided the materials needed to bruteforce into the suspected services and/or devices. Once located, copy thge file in local. 
+In this scenario the class will be divided in two teams, one team will be tasked with hacking (Hacking Team) the second team will provide intelligence support (Osint Team). The objective of this scenario is to retrieve a file on a server, while the Osint Team investigate the target in order to find hint and generate the materials for the Hack Team (Password list, Recon Intel, Company users etc...). During this time the Hack team will have to penetrate the network, scan it and identify the services that will allow them to eventually retrive the file. The Osint Team should have by then provided the materials needed to bruteforce into the suspected services and/or devices. Once located, retrieve the file in local. 
 
 ----------------------------------
  
 
+Requirements for class:
+- Laptop decent enough to run a VirtualBox
+- 1 x USB Key (>32GB)
+- 1 x Wifi USB dongle compatible Kali (Amazon +/-4€)
 
 
 TO DO:
@@ -128,10 +132,4 @@ TO DO:
 - Centralize VMs
 - Build up courseware
 - Deploy Lab
-- Set up scenario
-
-
-Requirements & Preparation:
-- Laptop that can run VirtualBox
-- 2 x USB Key (one > 32GB)
-- Wifi USB dongle 
+- Set up scenarios
