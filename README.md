@@ -8,6 +8,5 @@ Sunday 10.00/14.00: The previous class is repeated, for those who could not atte
 Sunday 15.00/19.00 The weekly class. 
 
 The program is here: https://github.com/SchenLong/Mutaito-Academy/blob/master/Program
-
 What you need for the class is here: https://github.com/SchenLong/Mutaito-Academy/blob/master/Hardware%20Requirements
 
