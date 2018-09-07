@@ -30,6 +30,11 @@ Practices:
 - Login and connect to the firewall
 - Look up for the rules and trigger alerts. 
 
+Scenario:
+
+You have been assigned the set up of an office network including various devices such as servers, computers, firewalls and IoT devices.
+Once the netwok designed and planned you will have to deploy it´s infrastructure including modem, router, switches and connect the devices as per their IP Plan, computers, servers, mobile devices including all OSes , Mac, Windows, Linux, Android. 
+Once the network you will have to locate in the firewall the established rules and accordingly trigger alerts.   
 
                                                          ----------------------------------
 
@@ -42,7 +47,10 @@ Practices:
 Practices:
 - Create a DB with class elements
 - Perform a vulnerability assesment on a website
-- Hack the website
+- Hack the website´s DB
+
+Scenario:
+You have been tasked with performing a vulnerability assesment on a website and find SQL injection entry point, once located you must gain access to the database and dump it on your local drive. 
 
 
                                                          ----------------------------------
@@ -55,11 +63,10 @@ Practices:
 
 Practices:
 - Terminal navigation, install from APT, Install github clone, chmod, execute a software
-- Launch a NMAP scanner from command Line
-- Install and configure a windows server 2016
+- Clone the class github repository into /OPT/HACKADEMY from the terminal
+- Install and configure a windows server 2003 with IIS capacity
+- Scan the windows server 2003 for vulnerabilities and exploit
 - Root an android device
-
-
                                                          ----------------------------------
 
 
@@ -71,9 +78,11 @@ Practices:
 Practices:
 - Break WiFi encryption and connect to network
 - Scan the network and identify connected device
-- Identify the IDS and the Firewall, take them offline
-- Rescan and perform recon on the devices that you found
+- Identify the IDS and the Firewall, hack them offline
+- Rescan and perform recon on the devices that you found, note the differences.
 
+Scenario:
+You have a recognition assignement with no physical access to the assets nor the offices. You must break the wireless encryption, penetrate the network and scan for assets. You will notice that an IDS and a Firewall protects the network, you will have to take them offline and provide accurate details on your network recognition, identifying the devices, opened ports and running services of the devices found on the network will be expected. 
 
                                                          ----------------------------------
 
@@ -87,6 +96,8 @@ Practices:
 - Find the vulnerabilities related to the webapps
 - Document the vulnerabilities
 
+Scenario:
+You have been assigned a web application recognition in order to prepare a further attack, you must create a detail report on all vulnerabilities you have found, document them with the ressources you have discovered during the class. All vulnerabilities must be documented with the corresponding CVE reference and level of criticity.
 
                                                          ----------------------------------
 
@@ -96,15 +107,17 @@ Practices:
 - Network protocols FTP, TELNET, RDP and their vulnerabilities
 - BruteForce and Password list generator
 
-Practices / Scenario: The class must gain access to the corporation system to retrieve a file. OSINT is greatly advised for login and passwords
+Practices :
 - 2 Teams: Osint & Hack
 - Osint practice recon on infrastructure target, Hack team performs penetration into network
 - Osint Team must find the login and password hint
 - Hack Team create the password list given Osint provided intels
 - Hack Team launch brute force attack against FTP, TELNET, RDP protocols and available devices.
 
+Scenario: 
+In this scenario the class will be divided in two teams, one team will be tasked with hacking (Hacking Team) the second team will provide intelligence support (Osint Team). The objective of this scenario is to retrieve a file on a server, while the Osint Team investigate the target in order to find hint and generate the materials for the Hack Team (Password list, Recon Intel, Company users etc...). During this time the Hack team will have to penetrate the network, scan it and identify the services that will allow them to eventually retrive the file. The Osint Team should have by then provided the materials needed to bruteforce into the suspected services and/or devices. Once located, copy thge file in local. 
 
-                                                         ----------------------------------
+----------------------------------
  
 
 
