@@ -121,15 +121,3 @@ In this scenario the class will be divided in two teams, one team will be tasked
 ----------------------------------
  
 
-Requirements for class:
-- Laptop decent enough to run a VirtualBox
-- 1 x USB Key (>32GB)
-- 1 x Wifi USB dongle compatible Kali (Amazon +/-4€)
-
-
-TO DO:
-- classify ressources
-- Centralize VMs
-- Build up courseware
-- Deploy Lab
-- Set up scenarios
