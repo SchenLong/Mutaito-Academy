@@ -31,7 +31,6 @@ Practices:
 - Look up for the rules and trigger alerts. 
 
 Scenario:
-
 You have been assigned the set up of an office network including various devices such as servers, computers, firewalls and IoT devices.
 Once the netwok designed and planned you will have to deploy it´s infrastructure including modem, router, switches and connect the devices as per their IP Plan, computers, servers, mobile devices including all OSes , Mac, Windows, Linux, Android. 
 Once the network you will have to locate in the firewall the established rules and accordingly trigger alerts.   
@@ -67,6 +66,8 @@ Practices:
 - Install and configure a windows server 2003 with IIS capacity
 - Scan the windows server 2003 for vulnerabilities and exploit
 - Root an android device
+
+
                                                          ----------------------------------
 
 
