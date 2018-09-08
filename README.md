@@ -8,5 +8,7 @@ Sunday 10.00/14.00: The previous class is repeated, for those who could not atte
 
 The program is here: https://github.com/SchenLong/Mutaito-Academy/blob/master/Program
 
+How to join the classroom can be found here: https://github.com/SchenLong/Mutaito-Academy/blob/master/Join_The_Class
+
 What you need for the class is here: https://github.com/SchenLong/Mutaito-Academy/blob/master/Hardware%20Requirements
 
