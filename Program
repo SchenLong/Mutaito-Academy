@@ -43,7 +43,7 @@ Practices:
 - Hack the website´s DB
 
 Scenario:
-You have been tasked with performing a vulnerability assesment on a website and find SQL injection entry point, once located you must gain access to the database and dump it on your local drive. 
+You have been tasked with performing a vulnerability assesment on a website. 
 
 
                                                          ----------------------------------
@@ -51,15 +51,14 @@ You have been tasked with performing a vulnerability assesment on a website and 
 
 Class 4) Hardware, OS and Architecture: Level 1
 - Linux Kali: SSH, Bash & Terminal principles
-- Windows: Server 2016, Install and config
-- Android: Root a device
+- Windows: Server 2003, Install and config
+- MAC-OSX: Install and config
 
 Practices:
 - Terminal navigation, install from APT, Install github clone, chmod, execute a software
 - Clone the class github repository into /OPT/HACKADEMY from the terminal
-- Install and configure a windows server 2003 with IIS capacity
 - Scan the windows server 2003 for vulnerabilities and exploit
-- Root an android device
+
 
 
                                                          ----------------------------------
@@ -77,7 +76,9 @@ Practices:
 - Rescan and perform recon on the devices that you found, note the differences.
 
 Scenario:
-You have a recognition assignement with no physical access to the assets nor the offices. You must break the wireless encryption, penetrate the network and scan for assets. You will notice that an IDS and a Firewall protects the network, you will have to take them offline and provide accurate details on your network recognition, identifying the devices, opened ports and running services of the devices found on the network will be expected. 
+You have a recognition assignement with no physical access to the assets nor the offices. You must break the wireless encryption, penetrate the network and scan for assets. 
+You will notice that an IDS and a Firewall protects the network, you will have to take them offline and provide accurate details on your network recognition, 
+identifying the devices, opened ports and running services of the devices found on the network will be expected. 
 
                                                          ----------------------------------
 
